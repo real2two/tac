@@ -21,5 +21,7 @@ It should look like this.
 
 Now, click the "Run" button in the menu and then click "Start".
 
-Just wait a bit... soon, a program should open. If it doesn't or just instantly closes, that just means there is a error on the TAC project. The program file should've been made. It is recommended to "Source EXE to source folder", which is in the "Run" menu.
+Just wait a bit... soon, a program should open. If it doesn't or just instantly closes, that just means there is a error on the TAC project. The program file should've been made somewhere.
+
+**It is recommended to "Source EXE to source folder", which is in the "Run" menu.**
 
