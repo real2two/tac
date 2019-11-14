@@ -1,4 +1,8 @@
 # Table of contents
 
-* [TAC Docs](README.md)
+* [What is TAC?](README.md)
+
+## Getting Started
+
+* [Download](getting-started/download.md)
 
