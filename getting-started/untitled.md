@@ -12,3 +12,7 @@ After you finish downloading and doing all the extracting stuff, run QB64.
 
 You should see a IDE module like this:
 
+![QB64 1.3 IDE](../.gitbook/assets/qb64-ide.png)
+
+
+
