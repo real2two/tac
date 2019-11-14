@@ -5,5 +5,7 @@
 ## Getting Started
 
 * [Download](getting-started/download.md)
-* [Untitled](untitled.md)
+* [Untitled](getting-started/untitled-2.md)
+* [Linux](getting-started/linux.md)
+* [macOS](getting-started/untitled.md)
 
