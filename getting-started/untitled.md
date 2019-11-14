@@ -14,5 +14,5 @@ You should see a IDE module like this:
 
 ![QB64 1.3 IDE](../.gitbook/assets/qb64-ide.png)
 
-
+If you haven't downloaded TAC already, do it. You should see a file called "[game.bas](https://github.com/text-adventure-creator/stable/blob/master/TAC%20Project/game.bas)". That is the source code. Open the file "[game.bas](https://github.com/text-adventure-creator/stable/blob/master/TAC%20Project/game.bas)" using QB64. You can open a file using Ctrl-O.
 
