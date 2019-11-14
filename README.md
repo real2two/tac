@@ -1,2 +1,4 @@
-# stable
-The stable and best version of TAC.
+# TAC
+TAC stands for Text Adventure Creator and used to make text adventure games.
+# Docs
+Coming soon.
