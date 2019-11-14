@@ -17,3 +17,9 @@ You should see a IDE module like this:
 If you haven't downloaded TAC already, do it. You should see a file called "[game.bas](https://github.com/text-adventure-creator/stable/blob/master/TAC%20Project/game.bas)". That is the source code. Open the file "[game.bas](https://github.com/text-adventure-creator/stable/blob/master/TAC%20Project/game.bas)" using QB64. You can open a file using Ctrl-O. After finding your file, open it.   
 It should look like this.
 
+![game.bas Opened](../.gitbook/assets/game.bas-opened%20%281%29.png)
+
+Now, click the "Run" button in the menu and then click "Start".
+
+Just wait a bit... soon, a program should open. If it doesn't or just instantly closes, that just means there is a error on the TAC project. The program file should've been made. It is recommended to "Source EXE to source folder", which is in the "Run" menu.
+
