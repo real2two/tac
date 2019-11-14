@@ -12,7 +12,9 @@ There is a file called **game.bas** and **game.exe**. **game.bas** is the source
 
 There is a file called **game.exe**. That is the program used to run the program. You don't need to modify **game.exe** in any way to make the text adventure game.
 
-There is also a folder called "data". That is where all your data is stored.
+There is also a folder called "data". That is where all your data is stored. ****This is the folder where you'll edit the program.
 
-If you are a Linux or macOS user, there is another guide that teaches you how to run the program using Linux or macOS.
+[**If you are a Linux or macOS user, there is another guide that teaches you how to run the program using Linux or macOS.** ](untitled.md)\*\*\*\*
+
+\*\*\*\*
 
