@@ -20,4 +20,5 @@
 * [What are "parts" and how do you make them?](parts/what-are-parts.md)
 * ["actions" folder](parts/actions-folder.md)
 * [Part Types](parts/part-types.md)
+* [Text and Images](parts/text-and-images.md)
 
