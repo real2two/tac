@@ -22,7 +22,11 @@ font file (fonts must in the folder "data\fonts\") # leave this as "?" to set it
 font size # leave this as "?" if you set the font file as "?". you can not control the default font's size.
 ```
 
-This can be looped over and over again.  
+{% hint style="info" %}
+This can be looped over and over again.
+{% endhint %}
+
+  
 Example:
 
 ```text
@@ -65,7 +69,9 @@ x of the image # must be a number
 y of the image # must be a number
 ```
 
+{% hint style="info" %}
 Just like text, this can be looped over and over again.
+{% endhint %}
 
 Here's a example image in the program:
 
