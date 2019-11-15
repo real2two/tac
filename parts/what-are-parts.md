@@ -23,6 +23,8 @@ Making a folder in "data\game\" means you make a unstable part. 🎉Yay!🎉
 
 After you make the part, there are many things you can add to the part. The main thing you need to know is the part types.
 
+You also need to know how to output text and images to the program.
+
 ## What are part types?
 
 There are currently 3 "official" part types. You can edit the part type of a part in the file "data\game\&lt;part name&gt;\run.\(filetype\)". You simply write the part type name in there, without any caps.
