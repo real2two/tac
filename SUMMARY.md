@@ -9,9 +9,13 @@
 
 ## Settings
 
-* [What is "settings"?](settings/what-is-settings.md)
+* [What are "settings"?](settings/what-is-settings.md)
 * [iconfile.\(filetype\)](settings/iconfile.-filetype.md)
 * [screen.\(filetype\)](settings/screen.-filetype.md)
 * [startpart.\(filetype\)](settings/screen.-filetype-1.md)
 * [title.\(filetype\)](settings/title.-filetype.md)
+
+## Parts
+
+* [What are "parts"?](parts/what-are-parts.md)
 

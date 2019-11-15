@@ -2,7 +2,7 @@
 description: Learn the power of changing your game settings.
 ---
 
-# What is "settings"?
+# What are "settings"?
 
 There are game settings. If you downloaded TAC, you should see the folder called "data\settings\", which contain 4 files.
 
