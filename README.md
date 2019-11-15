@@ -12,3 +12,5 @@ TAC is open source under the "**GNU General Public License v3.0**" license.
 
 \(filetype\) is defaultly set as ".txt".
 
+_**Github Page:**_ [_**https://github.com/text-adventure-creator/stable**_](https://github.com/text-adventure-creator/stable)_\*\*\*\*_
+
