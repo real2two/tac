@@ -49,7 +49,9 @@ I'm blue!
 ?
 ```
 
-This should show:
+This should look like:
+
+![Output of the program.](../.gitbook/assets/image.png)
 
 ## images.\(filetype\)
 
