@@ -10,3 +10,5 @@ You can make text adventure games with text in any cordinates, color of the text
 TAC is mainly supported on **Windows** and is coded with **QB64**.  
 TAC is open source under the "**GNU General Public License v3.0**" license.
 
+\(filetype\) is defaultly set as ".txt".
+
