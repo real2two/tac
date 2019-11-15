@@ -25,15 +25,3 @@ Also, all official part types can contain the folder "actions" \("data\game\&lt;
 * end
   * This is a bit similar to the part type "continue", but after you click any button \(besides keys that are in the "actions folder", if there is one\), it closes the program.
 
-## Part Type: "num"
-
-...
-
-## Part Type: "continue"
-
-...
-
-## Part Type: "end"
-
-...
-
