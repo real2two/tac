@@ -25,7 +25,7 @@ After you make the part, there are many things you can add to the part. The main
 
 ## What are part types?
 
-There are currently 3 "official" part types.
+There are currently 3 "official" part types. You can edit the part type of a part in the file "data\game\&lt;part name&gt;\run.\(filetype\)".
 
 ### Similarities between the part types.
 
