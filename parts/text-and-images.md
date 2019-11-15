@@ -73,3 +73,5 @@ Here's a example image in the program:
 
 ## sound.\(filetype\)
 
+You can put "sound.\(filetype\)" in your part folder. This is used to play sound in the program. Sounds only stop when the program closes or the sound ends. The sound cannot be looped and will continue while going to a new part. All sound files must be in the folder "data\sound\". 
+
