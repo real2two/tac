@@ -25,3 +25,18 @@ Also, all official part types can contain the folder "actions" \("data\game\&lt;
 * end
   * This is a bit similar to the part type "continue", but after you click any button \(besides keys that are in the "actions folder", if there is one\), it closes the program.
 
+## goto.txt \(continue\)
+
+Inside the file, if your action is continue, it requires a file called "goto.txt" in the part folder. In the file, int eh first line, you simply need to enter the part name you want the player to go to when they click any button or key \(besides actions from the "action" folder, if exist\).
+
+{% hint style="info" %}
+Only the first line of the file is read and is the part you go to.
+{% endhint %}
+
+```text
+start1
+# Nothing will be read here.
+```
+
+This shows that on any button or key, you will go to the part "start1".
+
