@@ -79,3 +79,17 @@ You can put "sound.\(filetype\)" in your part folder. This is used to play sound
 Sometimes, the sound doesn't play. I recommend using one of those something to ".ogg" file converter. I tried to make a sound with LMMG once and the ".wav" file didn't play. I tried to use the converter to a ".ogg" and it started working.
 {% endhint %}
 
+All you simply need to do is list all the sounds you want the program to play when you go to that part.
+
+Here's a example:
+
+```text
+oof.wav
+play.wav
+start.wav
+```
+
+{% hint style="warning" %}
+Don't play too many sounds as once, which might sound terrible.
+{% endhint %}
+
