@@ -17,6 +17,6 @@ TAC is open source under the "**GNU General Public License v3.0**" license.
 {% endhint %}
 
 {% hint style="danger" %}
-Making a single mistake may cause a program crash.
+Making a single mistake may cause a program crash or leak.
 {% endhint %}
 
