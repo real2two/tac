@@ -21,7 +21,11 @@ All parts \(besides custom coded parts\) are edited in the folder, "data\game\".
 
 Making a folder in "data\game\" means you make a unstable part. 🎉Yay!🎉
 
-After you make the part, there are many things you can add to the part.
+After you make the part, there are many things you can add to the part. The main thing you need to know is the part types.
+
+## What are part types?
+
+
 
 
 
