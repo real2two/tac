@@ -4,8 +4,6 @@ description: These are the stuff you need to know for part types.
 
 # Part Types
 
-
-
 ## What are part types?
 
 There are currently 3 "official" part types. You can edit the part type of a part in the file "data\game\&lt;part name&gt;\run.\(filetype\)". You simply write the part type name in there, without any caps.
