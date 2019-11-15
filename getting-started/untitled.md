@@ -6,7 +6,13 @@ description: Running your program on Linux or macOS.
 
 If you are a Linux or macOS user, you can run the program using the coding language TAC was made in. TAC is coded in QB64. You can download QB64 at [https://github.com/Galleondragon/qb64/releases/](https://github.com/Galleondragon/qb64/releases/).
 
-Download the file. A tutorial video you can find online is: [https://www.youtube.com/watch?v=PcwDD06VK\_0](https://www.youtube.com/watch?v=PcwDD06VK_0) \(in the video, it tells you how to also download QBasic 1.1. do not download QBasic 1.1, unless you are using it something other than TAC\)
+Download the file.
+
+{% hint style="info" %}
+Windows: [Click Here!](https://www.schoolfreeware.com/Install_QB64_QBasic_On_Windows_10.html)  
+Linux: [Click Here!](https://www.google.com/search?q=qb64+on+linux&rlz=1C1CHBF_enUS850US850&oq=qb64+on+linux&aqs=chrome..69i57j0l4.2839j0j7&sourceid=chrome&ie=UTF-8)  
+macOS: [Click Here!](https://www.google.com/search?q=qb64+on+macOS&rlz=1C1CHBF_enUS850US850&oq=qb64+on+macOS&aqs=chrome..69i57j33.2204j0j7&sourceid=chrome&ie=UTF-8)
+{% endhint %}
 
 After you finish downloading and doing all the extracting stuff, run QB64.
 
