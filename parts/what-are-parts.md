@@ -42,5 +42,14 @@ You also need to know how to output text and images to the program.
 
 These are the current required files \(for the official build\):
 
+* "text.\(filetype\)" and/or "images.\(filetype\)"
+  * Sets the text/images of the program.
+* "run.\(filetype\)"
+  * Sets the part type.
+* \(if the file type is "num"\) Folder "actions"
+  * Manage the key actions \(as in click on a specific key to go to a part\).
+* \(if the file type is "continue"\) "goto.\(filetype\)"
+  * The part you go to when you click any button/key \(except the key actions from the folder "actions", if exists\).
+
 ## 
 
