@@ -13,7 +13,11 @@ You can make parts with text, images, custom fonts, keybinds and many more!
 
 In the source code, "part$" is the variable that controls which part you are in, which is useful for custom coding a part, as in maybe make a game with both text adventure and moving graphics.
 
-Of course, there is multiple more processes that read the code/files \(input\) and sends the output to the program. If you want to know exactly how the program works, read the code and learn QB64.
+Of course, there is multiple more processes that read the code/files \(input\) and sends the output to the program.
+
+{% hint style="info" %}
+If you want to know exactly how the program works, read the code and learn QB64.
+{% endhint %}
 
 ## What are the required files?
 
