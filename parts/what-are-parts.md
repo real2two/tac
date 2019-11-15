@@ -25,6 +25,19 @@ After you make the part, there are many things you can add to the part. The main
 
 You also need to know how to output text and images to the program.
 
+## What are the required files?
+
+These are the current required files \(for the official build\):
+
+* "run.\(filetype\)"
+  * This is required to set the part type of the part.
+* "text.\(filetype\)" and/or "images.\(filetype\)
+  * You can have both of these, but at least one of these files are required.
+  * They are used to set the text or image of the files. You can set a custom font to the text.
+* "actions\" \(folder\) if the part type is "num".
+  * This folder is only required if the part type is "num".
+  * Nothing needs to be in the folder "actions" though, but the folder is required.
+
 ## What are part types?
 
 There are currently 3 "official" part types. You can edit the part type of a part in the file "data\game\&lt;part name&gt;\run.\(filetype\)". You simply write the part type name in there, without any caps.
