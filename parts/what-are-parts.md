@@ -25,7 +25,19 @@ After you make the part, there are many things you can add to the part. The main
 
 ## What are part types?
 
+There are currently 3 "official" part types.
+
+### Similarities between the part types.
+
+Currently, all official part types can send text and images to the program.  
+Also, all official part types can contain the folder "actions" \("data\game\&lt;part name&gt;\actions\"\).
 
 
 
+### Differences between the part types.
+
+* num
+  * This part type requires the folder "actions" in the part folder \("data\game\&lt;part name&gt;\actions\"\).
+* continue
+* end
 
