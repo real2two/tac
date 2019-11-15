@@ -14,7 +14,9 @@ There is a file called **game.exe**. That is the program used to run the program
 
 There is also a folder called "data". That is where all your data is stored. ****This is the folder where you'll edit the program.
 
+{% hint style="info" %}
 [**If you are a Linux or macOS user, there is another guide that teaches you how to run the program using Linux or macOS.** ](untitled.md)\*\*\*\*
+{% endhint %}
 
 \*\*\*\*
 
