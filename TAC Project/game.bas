@@ -5,7 +5,7 @@ COLOR 15
 
 CONST filetype$ = "txt"
 CONST limitnum = 60
-CONST debug = 1
+CONST debug = 0
 
 IF _FILEEXISTS("data\settings\screen." + filetype$) THEN
     OPEN "data\settings\screen." + filetype$ FOR INPUT AS #1
@@ -83,7 +83,6 @@ IF _DIREXISTS("data\game\" + part$) THEN
                     I& = _LOADIMAGE("data\images\" + iconfile$, 32)
                     IF I& < -1 THEN
                         _PUTIMAGE (x, y), I&
-                        _DISPLAY
                     ELSE SYSTEM
                     END IF
                 ELSE SYSTEM
@@ -121,7 +120,6 @@ IF _DIREXISTS("data\game\" + part$) THEN
                         _PRINTMODE _KEEPBACKGROUND
                     END IF
                     _PRINTSTRING (x, y), text$
-                    _DISPLAY
                 ELSE
                     IF fontsize <= 0 THEN SYSTEM
                     IF _FILEEXISTS("data\fonts\" + font$) THEN
@@ -132,7 +130,6 @@ IF _DIREXISTS("data\game\" + part$) THEN
                                 _PRINTMODE _KEEPBACKGROUND
                             END IF
                             _PRINTSTRING (x, y), text$
-                            _DISPLAY
                             _FONT 16
                             _FREEFONT f&
                         ELSE SYSTEM
@@ -147,6 +144,8 @@ IF _DIREXISTS("data\game\" + part$) THEN
         END IF
         IF texterrortype$ = "" THEN SYSTEM
         texterrortype$ = ""
+
+        _DISPLAY
 
         IF _FILEEXISTS(dir$ + "sound." + filetype$) THEN
             OPEN dir$ + "sound." + filetype$ FOR INPUT AS #1

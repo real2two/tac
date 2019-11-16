@@ -1,0 +1,21 @@
+Hello!
+0
+0
+ffffff
+?
+?
+?
+How are you doing?
+0
+10
+ffffff
+?
+?
+?
+I'm blue!
+0
+20
+0000FF
+?
+?
+?
