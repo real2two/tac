@@ -82,7 +82,7 @@ Here's a example image in the program:
 You can put "sound.\(filetype\)" in your part folder. This is used to play sound in the program. Sounds only stop when the program closes or the sound ends. The sound cannot be looped and will continue while going to a new part. All sound files must be in the folder "data\sound\". 
 
 {% hint style="danger" %}
-Sometimes, the sound doesn't play. I recommend using one of those something to ".ogg" file converter. I tried to make a sound with LMMG once and the ".wav" file didn't play. I tried to use the converter to a ".ogg" and it started working.
+Sometimes, the sound doesn't play. I recommend using one of those something to ".ogg" file converter. I tried to make a sound with LMMS once and the ".wav" file didn't play. I tried to use the converter to a ".ogg" and it started working.
 {% endhint %}
 
 All you simply need to do is list all the sounds you want the program to play when you go to that part.
