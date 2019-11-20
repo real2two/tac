@@ -1,3 +1,5 @@
+Actual DOCS Page: https://ntb-nottoday.gitbook.io/tac-docs/
+
 ---
 description: The document that will tell you everything about Text Adventure Creator.
 ---
